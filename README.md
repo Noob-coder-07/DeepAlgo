@@ -1,14 +1,29 @@
+<h2 align="center"><u>DeepAlgo</u></h2>
+
+![Find All DSA at One Place](https://raw.githubusercontent.com/Noob-coder-07/DeepAlgo/main/DeepAlgo.png)
+<h4 align="center"> Find All DSA at One Place </h4>
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/Noob-coder-07/DeepAlgo/main/DeepAlgo.png" /><br>
-<a href="https://github.com/Noob-coder-07/DeepAlgo/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/github/license/tNoob-coder-07/DeepAlgo?style=for-the-badge" /></a> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" /> <a href="https://github.com/Noob-coder-07/DeepAlgo/pulls" target="_blank"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Noob-coder-07/DeepAlgo?style=for-the-badge" /></a> <a href="https://github.com/Noob-coder-07/DeepAlgo/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Noob-coder-07/DeepAlgo?style=for-the-badge" /></a> <a href="https://github.com/Noob-coder-07/DeepAlgo/blob/master/README.md#contributors-" target="_blank"><img alt="Github All Contributors" src="https://img.shields.io/github/all-contributors/Noob-coder-07/DeepAlgo?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/github/stars/Noob-coder-07/DeepAlgo?style=for-the-badge&color=orange">
+    <img src="https://img.shields.io/github/forks/Noob-coder-07/DeepAlgo?style=for-the-badge&color=purple">
+    <img src="https://img.shields.io/github/license/Noob-coder-07/DeepAlgo?style=for-the-badge&color=blue">
+    <img src="https://img.shields.io/github/issues/Noob-coder-07/DeepAlgo?style=for-the-badge&color=red">
+    <img src="https://img.shields.io/github/contributors/Noob-coder-07/DeepAlgo?style=for-the-badge&color=cyan">
+<br>
+    <img src="https://img.shields.io/badge/Author-Aditya Deshmukh-magenta?style=flat-square">
+    <img src="https://img.shields.io/badge/Open%20Source-yes-orange?style=flat-square">
+    <img src="https://img.shields.io/badge/Maintained-yes-cyan?style=flat-square">
+    <img src="https://img.shields.io/badge/Made%20In-India-green?style=flat-square">
+<br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noob-coder-07&repo=DeepAlgo&theme=synthwave">
 </p>
 
-## Overview
+### [+] Description
+The goal of this project is to have in a single place for all possible algorithms and data structures - in multiple languages. We aim to achieve this collaboratively, so feel free to contribute in any way you want, just make sure to follow the contribution guidelines listed below.  c
 
-The goal of this project is to have in a single place for all possible algorithms and data structures - in multiple languages. We aim to achieve this collaboratively, so feel free to contribute in any way you want, just make sure to follow the contribution guidelines listed below.
+### [+] Credits 
+<a href="https://github.com/Aditya664/Aditya664">Aditya664</a>
 
-
-### c
-### c++
-
+### [+] Find me on 
+<a href="mailto:adityadeshmukh7350@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-adityadeshmukh7350@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
 
