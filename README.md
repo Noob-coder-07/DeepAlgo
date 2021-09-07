@@ -1,7 +1,11 @@
-<h2 align="center"><u>DeepAlgo</u></h2>
+<h1 align="center"><u>DeepAlgo</u></h1>
+<p align="center">
+  <img width="500px" src="https://raw.githubusercontent.com/Noob-coder-07/DeepAlgo/main/DeepAlgo.png?rik=3yDkBTMY%2fllISQ&riu=http%3a%2f%2fi.imgur.com%2f6dMhVY2.gif&ehk=qoa%2fRF%2bI4LRjkI%2famDnm0HZI9noJooFDWMjGjOaRsW4%3d&risl=&pid=ImgRaw&r=0" alt="Material Bread logo">
+    <h2 align="center"> Find All DSA at One Place </h2>
+</p>
 
-![Find All DSA at One Place](https://raw.githubusercontent.com/Noob-coder-07/DeepAlgo/main/DeepAlgo.png)
-<h4 align="center"> Find All DSA at One Place </h4>
+
+
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/Noob-coder-07/DeepAlgo?style=for-the-badge&color=orange">
