@@ -20,8 +20,9 @@
     <img src="https://img.shields.io/badge/Made%20In-India-green?style=flat-square">
 <br>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noob-coder-07&repo=DeepAlgo&theme=synthwave">
+
 </p>
-------
+
 ### [+] Description
 The goal of this project is to have in a single place for all possible algorithms and data structures - in multiple languages. We aim to achieve this collaboratively, so feel free to contribute in any way you want, just make sure to follow the contribution guidelines listed below.  c
 
